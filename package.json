@@ -1,0 +1,11 @@
+{
+  "name": "time-stories-api",
+  "version": "1.0.0",
+  "description": "Extract latest stories from Time.com using basic HTML processing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
+
